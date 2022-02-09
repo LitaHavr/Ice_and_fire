@@ -1,0 +1,18 @@
+.app__header {
+  display: flex;
+  justify-content: space-between;
+}
+.app__title {
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 37px;
+}
+.app__title a {
+  text-decoration: none;
+  color: #232222;
+}
+.app__title span {
+  color: #6082B6;
+}
+
+/*# sourceMappingURL=appHeader.css.map */
